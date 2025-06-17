@@ -1101,7 +1101,7 @@ img {
 
 .modal-item {
   width: 100%;
-  border: 1px solid rgba(46, 47, 66, 0.4);
+  border: 1px solid rgba(78, 84, 195, 0.4);
   background-color: transparent;
   border-radius: 4px;
   outline: transparent;
@@ -1146,7 +1146,6 @@ img {
 
 .modal-input-cover {
   position: relative;
-  gap: 8px;
 }
 
 .modal-textarea {
