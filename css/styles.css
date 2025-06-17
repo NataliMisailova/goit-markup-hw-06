@@ -280,7 +280,9 @@ img {
 
 .mobile-menu-contacts {
   font-style: normal;
+  margin-bottom: 48px;
 }
+
 .mobile-menu-contacts-list {
   display: flex;
   flex-wrap: wrap;
@@ -314,7 +316,6 @@ img {
   gap: 40px;
   fill: #fff;
   justify-content: center;
-  margin-top: 48px;
 }
 
 .mobile-menu-socials-link {
@@ -588,6 +589,7 @@ img {
 .taste-list {
   display: flex;
   flex-wrap: wrap;
+  gap: 72px;
   padding-left: 12px;
   padding-right: 12px;
 }
