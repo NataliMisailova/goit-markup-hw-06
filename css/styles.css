@@ -486,6 +486,10 @@ img {
   justify-content: center;
 }
 
+.features-item {
+  width: 100%;
+}
+
 .features-subtitle {
   margin-bottom: 8px;
   font-weight: 700;
